@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+This is a simple react App created for the purposes of learning. Purpose of the app is to detect faces in images supplied by users via links. The image recognition is done through the Clarifai API, an artificial intelligence company that specializes in computer vision. It is able to recognize faces through machine learning and neural networks. 
 
 ## Available Scripts
 
