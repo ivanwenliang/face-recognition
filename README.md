@@ -14,6 +14,8 @@ Styling for this app is done primarily through Tachyons.
 
 Web app is deployed on Heroku.
 
+Backend code is in a separate repository called face-recognition-backend. 
+
 [Demo](https://smart-brain11.herokuapp.com/)
 
 ## Available Scripts
