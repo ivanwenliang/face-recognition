@@ -1,6 +1,20 @@
+# Face Recognition App
+
 ## About
 
-This is a simple react App created for the purposes of learning. Function of the app is to detect faces in images supplied by users. Detected faces will have a blue "bounding box" around the face. The facial recognition is done through the Clarifai API, an artificial intelligence company that specializes in computer vision. It is able to recognize faces through machine learning and neural networks. Styling for this app is done primarily through Tachyons.
+This is a simple react App created for the purposes of learning. 
+
+Function of the app is to detect faces in images supplied by users. Detected faces will have a blue "bounding box" around the face. 
+
+The facial recognition is done through the Clarifai API, an artificial intelligence company that specializes in computer vision. It is able to recognize faces through machine learning and neural networks. 
+
+Registration includes hashing of password for security and password is never stored in database. Uses bcrypt package to handle hashing and comparing passwords for validation.
+
+Styling for this app is done primarily through Tachyons.
+
+Web app is deployed on Heroku.
+
+[Demo](https://smart-brain11.herokuapp.com/)
 
 ## Available Scripts
 
