@@ -16,7 +16,7 @@ Web app is deployed on Heroku.
 
 Backend code is in a separate repository called face-recognition-backend. 
 
-[Demo](https://smart-brain11.herokuapp.com/)
+[Demo](https://face-recognition-ivan.herokuapp.com/)
 
 ## Available Scripts
 
